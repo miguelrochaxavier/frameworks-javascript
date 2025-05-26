@@ -1,0 +1,3 @@
+# passo a passo no console
+
+npx create-react-app index>y>cd index>npm start
