@@ -1,0 +1,36 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 16px;
+  background-color: #e0f7fa;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.form {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.form input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.form button {
+  padding: 8px 12px;
+  margin-left: 8px;
+  border: none;
+  background-color: #00796b;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.lista {
+  list-style-type: none;
+  padding: 0;
+}
