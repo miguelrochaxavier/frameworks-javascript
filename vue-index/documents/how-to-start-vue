@@ -1,0 +1,27 @@
+PS C:\Users\miguel_r_xavier\Desktop\frameworks-javascript> cd vue-index
+PS C:\Users\miguel_r_xavier\Desktop\frameworks-javascript\vue-index> npm create vite@latest
+Need to install the following packages:
+create-vite@6.5.0
+Ok to proceed? (y) y
+
+
+> npx
+> create-vite
+
+│
+◇  Project name:
+│  vite-project
+│
+◇  Select a framework:
+│  Vue
+│
+◇  Select a variant:
+│  JavaScript
+│
+◇  Scaffolding project in C:\Users\miguel_r_xavier\Desktop\frameworks-javascript\vue-index\vite-project...
+│
+└  Done. Now run:
+
+  cd vite-project
+  npm install
+  npm run dev
