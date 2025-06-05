@@ -1,0 +1,7 @@
+## Criar File Angular em casa // Lista de tarefas
+
+npm install -g @angular/cli
+npx -p @angular/cli ng new angular      
+cd angular[file]
+npx -p @angular/cli ng server
+!
